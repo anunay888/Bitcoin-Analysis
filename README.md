@@ -1,4 +1,4 @@
-Bitcoin Trader Sentiment Analysis Dashboard
+Bitcoin Trader Sentiment Analysis Dashboard:
 
 The dashboard provides a visual exploration of how trader sentiment, execution price, and transaction volume relate to trading performance across various accounts.
 
